@@ -108,6 +108,24 @@ button:hover {
 }
 
 
+/* section logo {
+    display: block;
+}
+
+div logo1 logo2 {
+    margin: 0 25rem;
+} */
+
+
+/* Media */
+
+@media screen and (min-width: 768px) {
+    .text-box {
+        margin: 0 12.875rem;
+    }
+}
+
+
 /*
  
  nav li {
